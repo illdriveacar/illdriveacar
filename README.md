@@ -6,13 +6,14 @@
   width="600"
   height="300"
 />
-</a>
+</a>  
 
-
+<br />
 
 **I'm learning about**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 **I want to learn about**
 <p>
