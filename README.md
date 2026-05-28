@@ -27,8 +27,7 @@
 </p>
 
 **Social**
-<p>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illdriveacar/)](https://www.linkedin.com/in/illdriveacar/)
+<p>[![Linkedin Badge](https://img.shelds.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illdriveacar/)](https://www.linkedin.com/in/illdriveacar/)</p>
 
 <!--
 **illdriveacar/illdriveacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
