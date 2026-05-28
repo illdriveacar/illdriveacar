@@ -28,7 +28,7 @@
 
 **Social**
 <p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illdriveacar/)](https://www.linkedin.com/in/illdriveacar/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illdriveacar/)](https://www.linkedin.com/in/illdriveacar/)
 </p>
 
 <!--
