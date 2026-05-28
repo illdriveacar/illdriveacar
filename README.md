@@ -26,9 +26,10 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-Social
+**Social**
+<p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illdriveacar/)](https://www.linkedin.com/in/illdriveacar/)
-
+</p>
 
 <!--
 **illdriveacar/illdriveacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
